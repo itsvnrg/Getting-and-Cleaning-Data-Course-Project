@@ -26,4 +26,4 @@ Write the data set to the `tidy_data.txt` file
 
 
 The `tidy_data.txt` in this repository was created by running the `run_analysis.R` script using R version 3.6.2 (2019-12-12)
-This script requires the dplyr package (I have used version_1.0.0)
+This script requires the `dplyr` package (I have used version_1.0.0)
